@@ -1,0 +1,8 @@
+server:
+  port: 9999
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/bocchifans
+    username: root
+    password: 114514
